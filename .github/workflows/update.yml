@@ -1,1 +1,38 @@
+name: Update Brazil M3U every 6h
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # a cada 6 horas (UTC)
+  workflow_dispatch:         # permite rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run updater
+        run: python update_playlist.py
+
+      - name: Commit & Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add brazil_ssiptv.m3u state.json
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Atualização automática da lista Brasil - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          )
