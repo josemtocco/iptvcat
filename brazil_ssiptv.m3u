@@ -32,15 +32,15 @@ https://streaming.cloudecast.com/hls/awtv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://awtv.com.br/wp-content/uploads/2024/10/LOGO-AWTV-1080X1080-300x300.png",AWTV (1080p)
 https://acesso.ecast.site:3070/live/awtvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Band (1080p) [Geo-blocked]
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",Band (1080p) [Geo-blocked]
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Band (1080p) [Geo-blocked]
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Band Minas (720p) [Not 24/7]
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",BDC TV (576p)
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/6ckHV6k.jpeg",BDC TV (576p)
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",BDC TV (576p)
+https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Bem TV (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/co7TCWC.png",Canal 38
@@ -49,6 +49,12 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?checkedby:
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV (1080p)
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Catve2 (720p)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/SnaIMgj.png",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Classique TV (360p)
@@ -243,6 +249,8 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptv
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",TV Modelo (720p)
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Y7b29VG.png",TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/QFE6TiV.png",TV Passo Fundo (720p)
