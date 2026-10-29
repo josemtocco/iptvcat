@@ -3,1120 +3,679 @@
     "name": "Agromais (1080p) [Geo-blocked]",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:01.936296+00:00"
-  },
-  "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Anime TV (360p) [Not 24/7]",
-    "logo": "https://i.imgur.com/rmAm6UE.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:02.068916+00:00"
-  },
-  "https://streaming.al.mt.gov.br/test/index.m3u8?checkedby:iptvcat.com": {
-    "name": "Assembleia Legislativa do Estado de Mato Grosso (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.115611+00:00"
-  },
-  "http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Band Minas (720p) [Not 24/7]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.117486+00:00"
-  },
-  "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "BDC TV (576p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.191206+00:00"
+    "last_checked": "2026-10-29T22:22:27.561540+00:00"
   },
   "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8?checkedby:iptvcat.com": {
     "name": "ANIMESTATION (Argentina) (720p)",
     "logo": "https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:02.206692+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:27.645827+00:00"
   },
-  "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Canal do Inter (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/TQFWEIS.png",
+  "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Anime TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rmAm6UE.png",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:02.231971+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:27.652022+00:00"
   },
   "https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "BDC TV (576p)",
     "logo": "https://i.imgur.com/6ckHV6k.jpeg",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:02.288649+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:27.741165+00:00"
   },
-  "https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Band (1080p) [Geo-blocked]",
-    "logo": "",
+  "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "CWB TV (720p)",
+    "logo": "https://i.imgur.com/S0ISpmU.png",
     "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.300793+00:00"
+    "last_checked": "2026-10-29T22:22:27.816480+00:00"
   },
-  "https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Band (1080p) [Geo-blocked]",
-    "logo": "",
+  "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Canal do Inter (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TQFWEIS.png",
     "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.300812+00:00"
+    "last_checked": "2026-10-29T22:22:27.855976+00:00"
   },
   "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com": {
     "name": "Amazon Sat (1080p)",
     "logo": "https://i.imgur.com/7rjCS5i.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:02.398464+00:00"
+    "last_checked": "2026-10-29T22:22:27.999446+00:00"
   },
-  "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Bem TV (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.406808+00:00"
-  },
-  "https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Bandnews (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Notícias",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.470086+00:00"
-  },
-  "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "CWB TV (720p)",
-    "logo": "https://i.imgur.com/S0ISpmU.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:02.476860+00:00"
-  },
-  "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Adesso TV (720p)",
-    "logo": "https://i.imgur.com/KgetM8j.png",
+  "https://video2.getstreamhosting.com:19360/8216/8216.m3u8?checkedby:iptvcat.com": {
+    "name": "Caribbean Advantage TV (1080p)",
+    "logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:02.762477+00:00"
+    "last_checked": "2026-10-29T22:22:28.112807+00:00"
   },
   "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Chroma TV (480p)",
     "logo": "https://i.imgur.com/SnaIMgj.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:02.818448+00:00"
+    "last_checked": "2026-10-29T22:22:28.145059+00:00"
   },
   "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Canal 38",
     "logo": "https://i.imgur.com/co7TCWC.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:02.839289+00:00"
-  },
-  "https://streaming.cloudecast.com/hls/awtv/index.m3u8?checkedby:iptvcat.com": {
-    "name": "AWTV (1080p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:02.851241+00:00"
-  },
-  "https://stmv1.srvif.com/classique/classique/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Classique TV (360p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:03.023942+00:00"
-  },
-  "https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Classique TV 2 (480p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:03.059137+00:00"
-  },
-  "https://video2.getstreamhosting.com:19360/8216/8216.m3u8?checkedby:iptvcat.com": {
-    "name": "Caribbean Advantage TV (1080p)",
-    "logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:03.117653+00:00"
-  },
-  "https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Classique TV Western (360p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:03.176936+00:00"
-  },
-  "https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?checkedby:iptvcat.com": {
-    "name": "DiaTV (1080p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:03.468779+00:00"
-  },
-  "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Demais TV (720p)",
-    "logo": "https://i.imgur.com/Md3xibE.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:03.494121+00:00"
-  },
-  "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Gospel Cartoon (360p)",
-    "logo": "https://i.imgur.com/aoq9CGU.png",
-    "category": "Infantil",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:03.647260+00:00"
-  },
-  "https://stream1.sersat.com/hls/garagetv.m3u8?checkedby:iptvcat.com": {
-    "name": "Garage TV Latin America",
-    "logo": "https://i.imgur.com/3J6Y08E.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:03.728065+00:00"
-  },
-  "https://stream.ichibantv.com:3764/hybrid/play.m3u8?checkedby:iptvcat.com": {
-    "name": "Geekdot (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:03.803950+00:00"
+    "last_checked": "2026-10-29T22:22:28.256719+00:00"
   },
   "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Boas Novas (1080p)",
     "logo": "",
     "category": "Religiosos",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:03.900969+00:00"
+    "last_checked": "2026-10-29T22:22:28.298666+00:00"
+  },
+  "https://stmv1.srvif.com/classique/classique/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Classique TV (360p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:28.367459+00:00"
+  },
+  "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Adesso TV (720p)",
+    "logo": "https://i.imgur.com/KgetM8j.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:28.413303+00:00"
+  },
+  "https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Classique TV Western (360p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:28.557765+00:00"
   },
   "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "COM Brasil (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/GrjGwKM.png",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:03.967965+00:00"
-  },
-  "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "ISTV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/RUKVrOH.png",
-    "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.100480+00:00"
-  },
-  "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "FIFA+ Portuguese (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png",
-    "category": "Esportes",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.123286+00:00"
+    "last_checked": "2026-10-29T22:22:28.610406+00:00"
   },
   "https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?checkedby:iptvcat.com": {
     "name": "Fanpop TV",
     "logo": "https://cdn.energeek.cl/logos/Fanpop-512.png",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:04.134356+00:00"
-  },
-  "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "IURD TV",
-    "logo": "https://listaiptv.gratis/logos/imagens/ainraga.png",
-    "category": "Religiosos",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.321219+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:28.622413+00:00"
   },
   "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Fala Litoral (480p)",
     "logo": "https://i.imgur.com/NF6PL8O.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.466580+00:00"
+    "last_checked": "2026-10-29T22:22:28.763529+00:00"
   },
-  "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Loading (720p)",
-    "logo": "",
+  "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "FIFA+ Portuguese (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png",
+    "category": "Esportes",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:28.805237+00:00"
+  },
+  "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Demais TV (720p)",
+    "logo": "https://i.imgur.com/Md3xibE.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.613146+00:00"
-  },
-  "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Despertar TV (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:04.670708+00:00"
+    "last_checked": "2026-10-29T22:22:28.812567+00:00"
   },
   "https://stmv1.srvsite.com/ely/ely/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "ElyTV (360p)",
     "logo": "https://i.imgur.com/1eHNe91.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.744102+00:00"
+    "last_checked": "2026-10-29T22:22:28.841561+00:00"
   },
-  "https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Master Show TV (360p)",
-    "logo": "https://i.imgur.com/haXHFCT.png",
+  "https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?checkedby:iptvcat.com": {
+    "name": "DiaTV (1080p)",
+    "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:04.815285+00:00"
+    "last_checked": "2026-10-29T22:22:28.899100+00:00"
+  },
+  "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Gospel Cartoon (360p)",
+    "logo": "https://i.imgur.com/aoq9CGU.png",
+    "category": "Infantil",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:28.918409+00:00"
+  },
+  "https://stream.ichibantv.com:3764/hybrid/play.m3u8?checkedby:iptvcat.com": {
+    "name": "Geekdot (720p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:28.920519+00:00"
+  },
+  "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "ISTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RUKVrOH.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:29.061100+00:00"
+  },
+  "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?checkedby:iptvcat.com": {
+    "name": "Kanade (1080p)",
+    "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:29.074606+00:00"
+  },
+  "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "IURD TV",
+    "logo": "https://listaiptv.gratis/logos/imagens/ainraga.png",
+    "category": "Religiosos",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:29.126768+00:00"
+  },
+  "https://stream1.sersat.com/hls/garagetv.m3u8?checkedby:iptvcat.com": {
+    "name": "Garage TV Latin America",
+    "logo": "https://i.imgur.com/3J6Y08E.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:29.257933+00:00"
   },
   "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "KpopTV Play (576p)",
     "logo": "https://i.imgur.com/Tf0vweF.png",
     "category": "Música",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:04.999006+00:00"
+    "last_checked": "2026-10-29T22:22:29.437790+00:00"
   },
-  "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "KpopTV Play",
-    "logo": "https://i.imgur.com/Tf0vweF.png",
-    "category": "Música",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:05.012213+00:00"
-  },
-  "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?checkedby:iptvcat.com": {
-    "name": "Kanade (1080p)",
-    "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+  "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Despertar TV (720p)",
+    "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:05.041337+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:29.525224+00:00"
+  },
+  "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Loading (720p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:29.548246+00:00"
   },
   "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?checkedby:iptvcat.com": {
     "name": "Nova Era TV",
     "logo": "https://i.imgur.com/IK3F9Uq.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:05.241513+00:00"
-  },
-  "https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Fanpop TV",
-    "logo": "https://cdn.energeek.cl/logos/Fanpop-512.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:05.692318+00:00"
-  },
-  "http://213.246.39.14:8070/MCM/index.m3u8?checkedby:iptvcat.com": {
-    "name": "MCM",
-    "logo": "https://i.imgur.com/F5WNCp0.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:05.740610+00:00"
+    "last_checked": "2026-10-29T22:22:30.215961+00:00"
   },
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com": {
     "name": "Pluto TV Cine Drama (720p)",
     "logo": "",
     "category": "Filmes & Séries",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:05.947091+00:00"
+    "last_checked": "2026-10-29T22:22:31.084638+00:00"
   },
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com": {
     "name": "Pluto TV Cine FamÃ­lia (720p) [Not 24/7]",
     "logo": "",
     "category": "Filmes & Séries",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:05.962542+00:00"
-  },
-  "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com": {
-    "name": "Pluto TV MTV (Brazil) (720p)",
-    "logo": "",
-    "category": "Música",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:06.113619+00:00"
-  },
-  "https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Nova TV Agrotour (360p)",
-    "logo": "https://i.imgur.com/cgN2hfm.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:06.581581+00:00"
-  },
-  "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "MKK Web TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/TDEDNLK.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:06.739997+00:00"
-  },
-  "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?checkedby:iptvcat.com": {
-    "name": "Record News (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Notícias",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:06.865761+00:00"
-  },
-  "https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "PerÃº Channel (720p)",
-    "logo": "https://i.imgur.com/01KEiEp.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:07.692982+00:00"
+    "last_checked": "2026-10-29T22:22:31.174501+00:00"
   },
   "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "RBATV (720p)",
     "logo": "https://i.imgur.com/ZWFxlU1.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:07.949896+00:00"
-  },
-  "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV Goias (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:08.284765+00:00"
-  },
-  "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV Belem (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:08.629333+00:00"
-  },
-  "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV Itapoan (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:09.033404+00:00"
+    "last_checked": "2026-10-29T22:22:31.290819+00:00"
   },
   "https://acesso.ecast.site:3648/live/ritlive.m3u8?checkedby:iptvcat.com": {
     "name": "RIT TV (1080p)",
     "logo": "https://i.imgur.com/Unjs1wi.png",
     "category": "Religiosos",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:09.675413+00:00"
+    "last_checked": "2026-10-29T22:22:32.238453+00:00"
   },
-  "http://168.205.87.198:8555/live/1368/123456/150.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede CNT Salvador (576i)",
-    "logo": "https://i.imgur.com/jcasAmw.png",
-    "category": "Geral / Variedades",
+  "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com": {
+    "name": "Pluto TV MTV (Brazil) (720p)",
+    "logo": "",
+    "category": "Música",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:10.001225+00:00"
+    "last_checked": "2026-10-29T22:22:32.924183+00:00"
   },
-  "http://streaming.jornalmn.com.br/live/tvmn.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede Meio Norte (1080p)",
-    "logo": "https://i.imgur.com/KVdTi0M.png",
+  "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?checkedby:iptvcat.com": {
+    "name": "Record TV Itapoan (720p) [Geo-blocked]",
+    "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:12.139047+00:00"
+    "last_checked": "2026-10-29T22:22:33.978179+00:00"
   },
   "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?checkedby:iptvcat.com": {
     "name": "RecordTV",
     "logo": "https://i.imgur.com/sz9gTTr.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:12.733101+00:00"
+    "last_checked": "2026-10-29T22:22:34.460917+00:00"
+  },
+  "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?checkedby:iptvcat.com": {
+    "name": "Record TV RS (720p) [Geo-blocked]",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:35.283010+00:00"
+  },
+  "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?checkedby:iptvcat.com": {
+    "name": "Record TV SP (720p) [Geo-blocked]",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:35.612497+00:00"
+  },
+  "http://168.205.87.198:8555/live/1368/123456/150.m3u8?checkedby:iptvcat.com": {
+    "name": "Rede CNT Salvador (576i)",
+    "logo": "https://i.imgur.com/jcasAmw.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:35.870442+00:00"
   },
   "https://isaocorp.cloudecast.com/ngt/index.m3u8?checkedby:iptvcat.com": {
     "name": "Rede NGT (1080p)",
     "logo": "https://i.imgur.com/ZFN1R4B.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:13.478013+00:00"
+    "last_checked": "2026-10-29T22:22:39.259253+00:00"
   },
-  "https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede QDM (360p)",
-    "logo": "https://i.imgur.com/Lxqb2cU.png",
+  "http://200.77.176.130:8000/udp/224.0.0.4:49152?checkedby:iptvcat.com": {
+    "name": "RecordTV Interior SP",
+    "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:13.633899+00:00"
-  },
-  "https://acesso.ecast.site:3070/live/awtvlive.m3u8?checkedby:iptvcat.com": {
-    "name": "AWTV (1080p)",
-    "logo": "https://awtv.com.br/wp-content/uploads/2024/10/LOGO-AWTV-1080X1080-300x300.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:13.966191+00:00"
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:39.518998+00:00"
   },
   "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Catve Master TV (720p) [Not 24/7]",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:14.361327+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:40.025073+00:00"
   },
   "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Catve FM (720p) [Not 24/7]",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:14.489083+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:40.034235+00:00"
   },
   "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Catve2 (720p)",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:14.553771+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:40.186685+00:00"
   },
   "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Rede SPTV (360p)",
     "logo": "https://i.imgur.com/kh3LGAP.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:14.692210+00:00"
-  },
-  "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV Rio (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:14.816632+00:00"
-  },
-  "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV RS (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:14.879521+00:00"
-  },
-  "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV SP (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:14.963773+00:00"
-  },
-  "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8?checkedby:iptvcat.com": {
-    "name": "SESC TV (1080p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:15.072105+00:00"
+    "last_checked": "2026-10-29T22:22:40.445153+00:00"
   },
   "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "STZ TV (1080p)",
     "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:15.116735+00:00"
-  },
-  "https://streaming.portaltvparaense.com.br/hls/rtp.m3u8?checkedby:iptvcat.com": {
-    "name": "SBT ParÃ¡ (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:15.167812+00:00"
-  },
-  "http://45.235.0.78/Gloob/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Gloob (576p)",
-    "logo": "",
-    "category": "Infantil",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:15.482418+00:00"
-  },
-  "https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede UTV (720p)",
-    "logo": "https://i.imgur.com/Usw2e9d.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:15.644097+00:00"
+    "last_checked": "2026-10-29T22:22:40.703602+00:00"
   },
   "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?checkedby:iptvcat.com": {
     "name": "SIC TV",
     "logo": "https://i.imgur.com/E0IG98f.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:15.711037+00:00"
-  },
-  "https://streaming.cloudecast.com/hls/redetves/index.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede TV! ES (1080p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:15.719819+00:00"
-  },
-  "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "SertÃ£o TV (720p)",
-    "logo": "https://i.imgur.com/b5xOCsC.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:15.881593+00:00"
-  },
-  "https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede TV! (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:16.325801+00:00"
-  },
-  "https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Rede TV! Mais (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:16.458651+00:00"
+    "last_checked": "2026-10-29T22:22:40.945628+00:00"
   },
   "https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB&checkedby:iptvcat.com": {
     "name": "Kanade Brasil (1080p)",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:16.459159+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:41.221111+00:00"
+  },
+  "https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "Rede TV! Mais (720p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:41.250711+00:00"
+  },
+  "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "SertÃ£o TV (720p)",
+    "logo": "https://i.imgur.com/b5xOCsC.png",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:41.363984+00:00"
   },
   "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Aldeia (720p)",
     "logo": "https://i.imgur.com/rsfnv4Z.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:16.542667+00:00"
-  },
-  "https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV BoqueirÃ£o (720p)",
-    "logo": "https://i.imgur.com/1XrArrG.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:16.582549+00:00"
-  },
-  "https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV COM Santos (416p)",
-    "logo": "https://i.imgur.com/KX3fner.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:16.975496+00:00"
+    "last_checked": "2026-10-29T22:22:41.477990+00:00"
   },
   "http://45.235.0.78/Nickelodeon/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Nickelodeon (480p)",
     "logo": "",
     "category": "Infantil",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:17.053784+00:00"
-  },
-  "https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Caravelas",
-    "logo": "https://listaiptv.gratis/logos/imagens/tvcaravelas.png",
-    "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:17.103145+00:00"
+    "last_checked": "2026-10-29T22:22:41.559520+00:00"
   },
-  "https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4": {
-    "name": "iptvcat.com",
-    "logo": "",
+  "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV A Folha (720p)",
+    "logo": "https://i.imgur.com/I7XGMhj.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:17.434829+00:00"
+    "last_checked": "2026-10-29T22:22:41.807026+00:00"
+  },
+  "https://streaming.cloudecast.com/hls/superflix/index.m3u8?checkedby:iptvcat.com": {
+    "name": "Superflix TV (720p)",
+    "logo": "https://i.imgur.com/lvUbMen.png",
+    "category": "Geral / Variedades",
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:42.018342+00:00"
+  },
+  "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Bahia (1080i)",
+    "logo": "https://i.imgur.com/sJOrvHg.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:42.260041+00:00"
   },
   "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "https://i.imgur.com/vLpm8tN.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:18.002377+00:00"
+    "last_checked": "2026-10-29T22:22:43.038585+00:00"
   },
-  "https://streaming.cloudecast.com/hls/superflix/index.m3u8?checkedby:iptvcat.com": {
-    "name": "Superflix TV (720p)",
-    "logo": "https://i.imgur.com/lvUbMen.png",
+  "https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV BoqueirÃ£o (720p)",
+    "logo": "https://i.imgur.com/1XrArrG.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:43.130791+00:00"
+  },
+  "https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV BeltrÃ£o (1080p)",
+    "logo": "https://i.imgur.com/JxsyXCD.png",
     "category": "Geral / Variedades",
     "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:18.054320+00:00"
+    "last_checked": "2026-10-29T22:22:43.585533+00:00"
   },
-  "https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Cidade Oeste",
+  "https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4": {
+    "name": "iptvcat.com",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:18.155305+00:00"
-  },
-  "https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "STZ TV (720p)",
-    "logo": "https://i.imgur.com/SeF2I7q.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:18.313934+00:00"
-  },
-  "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "https://i.imgur.com/noqGfuy.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:18.485542+00:00"
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:43.802466+00:00"
   },
   "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Cidade Verde (720p)",
     "logo": "https://i.imgur.com/CLff5eG.png",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:18.572657+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:44.022830+00:00"
   },
-  "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Clube (720p)",
-    "logo": "https://i.imgur.com/CpXjcyE.png",
+  "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "https://i.imgur.com/noqGfuy.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:18.793985+00:00"
+    "last_checked": "2026-10-29T22:22:44.177895+00:00"
   },
   "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8?checkedby:iptvcat.com": {
     "name": "TV Cidade Verde Cuiaba",
     "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:18.909088+00:00"
+    "last_checked": "2026-10-29T22:22:44.270756+00:00"
+  },
+  "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Clube (720p)",
+    "logo": "https://i.imgur.com/CpXjcyE.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:44.316342+00:00"
   },
   "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV CuruÃ§a (360p)",
     "logo": "https://i.imgur.com/JdCKNZ4.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:18.950294+00:00"
+    "last_checked": "2026-10-29T22:22:44.389711+00:00"
   },
-  "http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Cinec",
-    "logo": "https://i.imgur.com/bEoN2tt.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:18.976778+00:00"
-  },
-  "https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Carioca (720p)",
+  "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Encontro das Aguas",
     "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:19.003961+00:00"
-  },
-  "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8?checkedby:iptvcat.com": {
-    "name": "Record",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:19.339823+00:00"
-  },
-  "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8?checkedby:iptvcat.com": {
-    "name": "Record News",
-    "logo": "",
-    "category": "Notícias",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:19.340843+00:00"
-  },
-  "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Cancao Nova (720p)",
-    "logo": "",
-    "category": "Religiosos",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:19.690494+00:00"
-  },
-  "https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Japi (720p)",
-    "logo": "https://i.imgur.com/dnmzIhF.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:19.918639+00:00"
-  },
-  "https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV AssemblÃ©ia CearÃ¡ (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:19.981392+00:00"
-  },
-  "http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV GuaraparÃ­ (720p)",
-    "logo": "https://i.imgur.com/eDNzwK0.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:20.020134+00:00"
-  },
-  "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV MaceiÃ³ (360p)",
-    "logo": "https://i.imgur.com/zZ9LEOZ.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:20.123724+00:00"
-  },
-  "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV MAX (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:20.301749+00:00"
+    "last_checked": "2026-10-29T22:22:45.423259+00:00"
   },
   "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8?checkedby:iptvcat.com": {
     "name": "TV Cultura",
     "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:20.644199+00:00"
+    "last_checked": "2026-10-29T22:22:45.729385+00:00"
   },
-  "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Encontro das Aguas",
-    "logo": "",
+  "https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Liberdade (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/W6bHHqE.png",
     "category": "Geral / Variedades",
     "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:20.646216+00:00"
+    "last_checked": "2026-10-29T22:22:45.779841+00:00"
+  },
+  "http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV GuaraparÃ­ (720p)",
+    "logo": "https://i.imgur.com/eDNzwK0.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:46.170299+00:00"
+  },
+  "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Life America (720p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:46.233312+00:00"
+  },
+  "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV MaceiÃ³ (360p)",
+    "logo": "https://i.imgur.com/zZ9LEOZ.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:46.411572+00:00"
+  },
+  "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV MAX (720p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:46.579047+00:00"
   },
   "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Mais MaricÃ¡ (1080p)",
     "logo": "https://i.imgur.com/lgCRX7q.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:21.014102+00:00"
+    "last_checked": "2026-10-29T22:22:46.584884+00:00"
   },
   "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u?checkedby:iptvcat.com": {
     "name": "TV Modelo (720p)",
     "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:21.173960+00:00"
+    "last_checked": "2026-10-29T22:22:47.274433+00:00"
   },
   "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Marajoara (720p)",
     "logo": "https://i.imgur.com/9d9vBN7.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:21.477866+00:00"
+    "last_checked": "2026-10-29T22:22:47.398021+00:00"
   },
   "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Padre Cicero",
     "logo": "https://i.imgur.com/Y7b29VG.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:21.580198+00:00"
+    "last_checked": "2026-10-29T22:22:47.451510+00:00"
   },
-  "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Sandegi (360p)",
-    "logo": "https://i.imgur.com/vJ6ZQSG.png",
+  "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Passo Fundo (720p)",
+    "logo": "https://i.imgur.com/QFE6TiV.png",
     "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:21.590962+00:00"
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:47.503811+00:00"
+  },
+  "https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Rio Grande (360p)",
+    "logo": "https://i.imgur.com/nlDNDu3.png",
+    "category": "Geral / Variedades",
+    "fail_count": 1,
+    "last_checked": "2026-10-29T22:22:47.684457+00:00"
   },
   "http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8?checkedby:iptvcat.com": {
     "name": "TV Precabura (720p) [Not 24/7]",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:21.612584+00:00"
+    "fail_count": 2,
+    "last_checked": "2026-10-29T22:22:47.697789+00:00"
   },
   "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u?checkedby:iptvcat.com": {
     "name": "TV Paraense (720p)",
     "logo": "",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:21.700610+00:00"
-  },
-  "https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Series 4 Chips (480p)",
-    "logo": "",
-    "category": "Filmes & Séries",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:21.967436+00:00"
-  },
-  "https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Series 5 Guerra Sombra e Agua Fresca (480p)",
-    "logo": "",
-    "category": "Filmes & Séries",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:21.991173+00:00"
-  },
-  "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "https://i.imgur.com/t5oUK3C.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.039497+00:00"
-  },
-  "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Santa Cruz (720p) [Not 24/7]",
-    "logo": "https://www.tvsantacruzcr.net/img/logotvsc.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.073141+00:00"
-  },
-  "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Rio Preto",
-    "logo": "https://i.imgur.com/9EqSKLc.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.084973+00:00"
-  },
-  "https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Vale do UruarÃ¡ (614p)",
-    "logo": "https://i.imgur.com/WgXsfIa.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.155720+00:00"
-  },
-  "https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Series 2 Mulher Bionica (480p)",
-    "logo": "",
-    "category": "Filmes & Séries",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.331246+00:00"
-  },
-  "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV SÃ£o Raimundo (268p)",
-    "logo": "https://i.imgur.com/f34CQIG.png",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.369630+00:00"
-  },
-  "https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Series 3 Star Trek (480p)",
-    "logo": "",
-    "category": "Filmes & Séries",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.376288+00:00"
+    "last_checked": "2026-10-29T22:22:48.152568+00:00"
   },
   "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Series 1 As Panteras (480p)",
     "logo": "",
     "category": "Filmes & Séries",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.487593+00:00"
+    "last_checked": "2026-10-29T22:22:48.228657+00:00"
   },
-  "https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Web ParanÃ¡ (720p)",
-    "logo": "https://i.imgur.com/HRfKUzS.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.542983+00:00"
-  },
-  "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Thathi (720p) [Not 24/7]",
-    "logo": "https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.548226+00:00"
-  },
-  "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Terra Viva",
-    "logo": "https://i.imgur.com/hBaG4Ce.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.711270+00:00"
-  },
-  "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Zoom (720p)",
-    "logo": "",
+  "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Rio Preto",
+    "logo": "https://i.imgur.com/9EqSKLc.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.800625+00:00"
+    "last_checked": "2026-10-29T22:22:48.542796+00:00"
   },
-  "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?checkedby:iptvcat.com": {
-    "name": "TVN Brasil",
-    "logo": "https://i.imgur.com/c5hs2CI.jpg",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:22.831920+00:00"
-  },
-  "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TVCOM MaceiÃ³ (480p)",
-    "logo": "https://i.imgur.com/IE7IZzi.png",
+  "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Sim Cachoeiro (720p)",
+    "logo": "https://i.imgur.com/t5oUK3C.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.930363+00:00"
+    "last_checked": "2026-10-29T22:22:49.048789+00:00"
   },
-  "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?checkedby:iptvcat.com": {
-    "name": "TVitapÃ© (720p)",
-    "logo": "https://i.imgur.com/XeqcwKe.png",
+  "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV SÃ£o Raimundo (268p)",
+    "logo": "https://i.imgur.com/f34CQIG.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:22.966523+00:00"
+    "last_checked": "2026-10-29T22:22:49.218870+00:00"
   },
-  "https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Web Camocim (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:23.052650+00:00"
-  },
-  "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TVN Brasil",
-    "logo": "https://i.imgur.com/Cywnp02.png",
+  "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Sul de Minas (720p)",
+    "logo": "https://i.imgur.com/hPh8cxK.png",
     "category": "Geral / Variedades",
     "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:23.119355+00:00"
-  },
-  "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TVC-Rio",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:23.415097+00:00"
+    "last_checked": "2026-10-29T22:22:49.296483+00:00"
   },
   "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TV Vila Real",
     "logo": "https://i.imgur.com/q5U0d9k.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:23.682699+00:00"
+    "last_checked": "2026-10-29T22:22:49.836169+00:00"
   },
-  "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "VV8 TV (720p)",
-    "logo": "https://i.imgur.com/TxHWAeD.png",
+  "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Zoom (720p)",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:49.863868+00:00"
+  },
+  "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TVCOM MaceiÃ³ (480p)",
+    "logo": "https://i.imgur.com/IE7IZzi.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:49.885462+00:00"
+  },
+  "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TVN Brasil",
+    "logo": "https://i.imgur.com/Cywnp02.png",
     "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:23.683956+00:00"
+    "last_checked": "2026-10-29T22:22:49.991830+00:00"
+  },
+  "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?checkedby:iptvcat.com": {
+    "name": "TVitapÃ© (720p)",
+    "logo": "https://i.imgur.com/XeqcwKe.png",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:50.247645+00:00"
   },
   "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TVNBN (720p)",
     "logo": "https://i.imgur.com/zoHBxn1.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:23.834152+00:00"
+    "last_checked": "2026-10-29T22:22:50.469456+00:00"
+  },
+  "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TVC-Rio",
+    "logo": "",
+    "category": "Geral / Variedades",
+    "fail_count": 0,
+    "last_checked": "2026-10-29T22:22:50.620540+00:00"
   },
   "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "TVÃ­deoNews (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/vstHOYx.png",
     "category": "Notícias",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:24.117034+00:00"
+    "last_checked": "2026-10-29T22:22:51.000719+00:00"
   },
   "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=&checkedby:iptvcat.com": {
     "name": "UNISUL TV (720p)",
     "logo": "https://i.imgur.com/N0TvAFz.png",
     "category": "Geral / Variedades",
     "fail_count": 0,
-    "last_checked": "2026-10-29T12:11:24.330193+00:00"
-  },
-  "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Santa Cecilia TV",
-    "logo": "https://i.imgur.com/KxYsq1d.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:27.278394+00:00"
+    "last_checked": "2026-10-29T22:22:51.384769+00:00"
   },
   "https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8?checkedby:iptvcat.com": {
     "name": "Santa Cecilia TV (1080p)",
     "logo": "",
     "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T12:11:27.787954+00:00"
-  },
-  "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Grao ParÃ¡ (720p)",
-    "logo": "https://i.imgur.com/1drg0E9.png",
-    "category": "Geral / Variedades",
     "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:30.995306+00:00"
+    "last_checked": "2026-10-29T22:22:53.523931+00:00"
   },
-  "https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Empire Magazine (720p)",
-    "logo": "https://i.imgur.com/tT1NVfV.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:31.018020+00:00"
-  },
-  "https://cdn-1.nxplay.com.br/TV_CULTURA/index.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Cultura",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:31.089901+00:00"
-  },
-  "https://acesso.ecast.site:3011/live/umatvlive.m3u8?checkedby:iptvcat.com": {
-    "name": "UMA TV (1080p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T12:11:35.010053+00:00"
-  },
-  "https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV Minas (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:00.504813+00:00"
-  },
-  "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?checkedby:iptvcat.com": {
-    "name": "Record TV Brasilia (720p) [Geo-blocked]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:00.678559+00:00"
-  },
-  "http://200.77.176.130:8000/udp/224.0.0.4:49152?checkedby:iptvcat.com": {
-    "name": "RecordTV Interior SP",
-    "logo": "",
+  "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8?checkedby:iptvcat.com": {
+    "name": "TV Cidade de PetrÃ³polis (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jaaGxnd.png",
     "category": "Geral / Variedades",
     "fail_count": 1,
-    "last_checked": "2026-10-29T04:04:01.340262+00:00"
-  },
-  "https://linear-181.frequency.stream/dist/24i/181/hls/master/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Revry Brasil",
-    "logo": "https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:06.614314+00:00"
-  },
-  "https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV A7 Plus (1080p)",
-    "logo": "https://i.imgur.com/qeo2oPM.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:07.739403+00:00"
-  },
-  "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV A Folha (720p)",
-    "logo": "https://i.imgur.com/I7XGMhj.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T04:04:08.124929+00:00"
-  },
-  "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Bahia (1080i)",
-    "logo": "https://i.imgur.com/sJOrvHg.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T04:04:08.395905+00:00"
-  },
-  "https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Cordeiro (360p)",
-    "logo": "https://i.imgur.com/wNULjux.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:10.655020+00:00"
-  },
-  "https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Aratu (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:10.692515+00:00"
-  },
-  "https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Difusora SÃ£o Luis",
-    "logo": "https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:11.664528+00:00"
-  },
-  "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Life America (720p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T04:04:13.209097+00:00"
-  },
-  "https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Guarapari (1080p)",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:13.517847+00:00"
-  },
-  "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV Passo Fundo (720p)",
-    "logo": "https://i.imgur.com/QFE6TiV.png",
-    "category": "Geral / Variedades",
-    "fail_count": 1,
-    "last_checked": "2026-10-29T04:04:14.485026+00:00"
-  },
-  "https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "Tela Viva (360p)",
-    "logo": "https://i.imgur.com/vcNo9Vj.png",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:17.659461+00:00"
-  },
-  "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8?checkedby:iptvcat.com": {
-    "name": "TV CÃ¢mara Salvador (288p) [Not 24/7]",
-    "logo": "",
-    "category": "Geral / Variedades",
-    "fail_count": 2,
-    "last_checked": "2026-10-29T04:04:22.604125+00:00"
+    "last_checked": "2026-10-29T22:22:55.909930+00:00"
   }
 }
