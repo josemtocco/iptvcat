@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="Esportes",Band Sports (720p)
-http://45.162.64.114/BAND_SPORTS/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Esportes",Band Sports (720p)
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png",FIFA+ Portuguese (720p)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8?checkedby:iptvcat.com
@@ -9,8 +7,6 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Filmes & Séries",Pluto TV Cine FamÃ­lia (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Filmes & Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movies (Brazil) (720p)
-http://45.162.64.114/SONY_MOVIES/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",+MaisUm (720p)
 https://stream.ichibansys.com:3230/hybrid/play.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/dWA9y2J.png",1001 Noites (480p)
@@ -19,28 +15,26 @@ https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8?checkedby:iptvca
 http://79.127.238.228:14551?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/KgetM8j.png",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim Latin America Brazil (720p)
-http://45.162.64.114/ADULT_SWIM/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",AgroCanal (720p)
 http://186.219.52.187/agro_canal/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/5XyopHf.png",AgroCanal (720p)
-http://45.162.64.114/AGRO_CANAL/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",AgroCanal (720p)
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/sFcOZeo.png",AgroMais (720p)
-http://45.162.64.114/AGROMAIS/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Agromais (1080p) [Geo-blocked]
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/7rjCS5i.png",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC Latin America Brazil (720p)
 http://170.83.49.66:8083/AMCHD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/rmAm6UE.png",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",ANIMESTATION (Argentina) (720p)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/jl39ula.png",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Ht4jCab.png",Aratu On (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Ivnk7A6.png",Arte 1 (720p)
-http://45.162.64.114/ARTE1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Assembleia Legislativa do Estado de Mato Grosso (720p)
 https://streaming.al.mt.gov.br/test/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",AWTV (1080p)
@@ -59,24 +53,22 @@ https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?checkedby:iptvcat.com
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",BDC TV (576p)
 https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/6ckHV6k.jpeg",BDC TV (576p)
+https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Bem TV (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/co7TCWC.png",Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/pVM5MhS.png",Canal do Boi (720p)
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Canal do Boi (720p)
 http://186.219.52.187/canal_do_boi/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Canal do Boi (720p)
 http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/OOB7nrS.png",Canal Educacao (720p)
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/TQFWEIS.png",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/7SE4CkE.png",Canal FDR (1080p)
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/LgynEBC.png",Canal Futura (720p)
-http://45.162.64.114/FUTURA/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Canal Futura (720p)
 http://186.219.52.187/futura/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticias
@@ -89,8 +81,6 @@ http://186.219.52.187/canal_rural/index.m3u8?checkedby:iptvcat.com
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV (1080p)
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Catve FM (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Catve Master TV (720p) [Not 24/7]
@@ -107,22 +97,26 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8?checked
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Classique TV 2 (480p)
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Classique TV Western (360p)
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/GrjGwKM.png",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/qHwTWlz.png",Conecta Mais TV (720p)
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png",Cultura Fast (720p)
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/S0ISpmU.png",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Md3xibE.png",Demais TV (720p)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",Despertar TV (720p)
 https://br.conectmy.com.br/DespertarTV/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",Discovery Channel Latin America Brazil (720p)
-http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Despertar TV (720p)
+https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",DiaTV (1080p)
+https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/yNFmUkE.png",Discovery World Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",DumDum (720p)
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",DumDum (720p)
 http://186.219.52.187/zoomoo/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Elemental Channel
@@ -138,17 +132,17 @@ http://181.78.197.59:8000/play/a07n/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/NF6PL8O.png",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",Fish TV (720p)
-http://45.162.64.114/FISH_TV/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/7q2BmNc.png",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png",Futura (720p)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/3J6Y08E.png",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Geekdot.br.png",Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png",Globoplay Novelas (1080p)
 http://79.127.238.228:14455?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",IMPD TV Worldwide (1080p)
@@ -157,6 +151,10 @@ https://igrejamundial.nuvemplay.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/RUKVrOH.png",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png",Kanade (1080p)
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Kanade Brasil (1080p)
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif",Lamore Rock Show WebTV (720p)
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Loading (720p)
@@ -172,8 +170,6 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?checkedby:iptvcat.
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/cgN2hfm.png",Nova TV Agrotour (360p)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Novo Tempo (720p)
-http://45.162.64.114/NOVO_TEMPO/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",Novo Tempo (720p)
 http://186.219.52.187/novo_tempo/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/n79nkVC.png",NTV (Brazil) (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8?checkedby:iptvcat.com
@@ -183,8 +179,6 @@ https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?checkedby:iptvcat.com
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Play TV (720p)
 https://isaocorp.cloudecast.com/playtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Ikrj3lk.png",Play TV (Brazil) (720p)
-http://45.162.64.114/PLAY_TV/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/ZWFxlU1.png",RBATV (720p)
@@ -197,22 +191,26 @@ https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?checkedby:
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Record TV Goias (720p) [Geo-blocked]
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Record TV Minas (720p) [Geo-blocked]
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Record TV Rio (720p) [Geo-blocked]
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/sz9gTTr.png",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/TXJKwzZ.png",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/jcasAmw.png",Rede CNT Rio de Janeiro (720p)
-http://45.162.64.114/CNT/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",Rede CNT Rio de Janeiro (720p)
-http://186.219.52.187/cnt/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Rede CNT Rio de Janeiro (720p)
 http://170.83.49.66:8083/REDECNTHD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Rede CNT Rio de Janeiro (720p)
+http://186.219.52.187/cnt/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/jcasAmw.png",Rede CNT Salvador (576i)
 http://168.205.87.198:8555/live/1368/123456/150.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Rede Familia (720p)
@@ -228,23 +226,21 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Lxqb2cU.png",Rede QDM (360p)
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Rede Seculo 21 (720p)
-http://45.162.64.114/REDE_SECULO_21/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",Rede Seculo 21 (720p)
 http://186.219.52.187/seculo21/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/kh3LGAP.png",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Rede TV! (720p)
-http://170.83.49.66:8083/REDETVHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",Rede TV! (720p)
 http://186.219.52.187/rede_tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Rede TV! (720p)
+http://170.83.49.66:8083/REDETVHD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Rede TV! (720p)
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",Rede TV! ES (1080p)
 https://streaming.cloudecast.com/hls/redetves/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png",Rede TV! Mais (720p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/ZJgD38F.png",Rede TV! SD (720p)
-http://45.162.64.114/REDE_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Rede TV! Mais (720p)
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/Usw2e9d.png",Rede UTV (720p)
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/mP1qfp2.png",Rede Vida (720p)
@@ -257,24 +253,22 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?checkedby:ip
 https://linear-181.frequency.stream/dist/24i/181/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/KxYsq1d.png",Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades",Santa Cecilia TV (1080p)
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/tc1ALuu.png",SBT Nacional (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",SBT ParÃ¡ (720p)
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png",SBT Rondonopolis (720p)
-https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/b5xOCsC.png",SertÃ£o TV (720p)
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",SESC TV (720p)
-http://45.162.64.114/SESC_TV/index.m3u8?checkedby:iptvcat.com
+http://186.219.52.187/sesc_tv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades",SESC TV (720p)
 http://170.83.49.66:8083/SESCTVHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades",SESC TV (720p)
-http://186.219.52.187/sesc_tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b2/Show_do_Milh%C3%A3o_Logo_2024.webp",Show do Milhao (1080p) [Geo-blocked]
-https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/E0IG98f.png",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",SOU TV
@@ -285,44 +279,38 @@ http://187.102.210.46/universo/index.m3u8?checkedby:iptvcat.com
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/SeF2I7q.png",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/lvUbMen.png",Superflix TV (720p)
+https://streaming.cloudecast.com/hls/superflix/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",TLC Latin America Brazil (720p)
 http://79.127.238.228:14433?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/TNTHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",TNT Novelas Brazil (720p)
-http://45.162.64.114/TNT_NOVELAS/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/I7XGMhj.png",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/qeo2oPM.png",TV A7 Plus (1080p)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/rsfnv4Z.png",TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Geral / Variedades" tvg-logo="https://i.imgur.com/kxrja0X.png",TV Aparecida (720p)
-http://45.162.64.114/TV_APARECIDA/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",Box Kids TV (720p)
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Latin America Brazil (720p)
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Infantil",Gloob (576p)
 http://45.235.0.78/Gloob/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/aoq9CGU.png",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png",SBT Kids (1080p) [Geo-blocked]
-https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/Tf0vweF.png",KpopTV Play
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Infantil",Nickelodeon (480p)
+http://45.235.0.78/Nickelodeon/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Música" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KpopTVPlay.br.png",KpopTV Play
 https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/Tf0vweF.png",KpopTV Play
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/Tf0vweF.png",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Música",Music Box Brazil (720p)
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Música",Pluto TV MTV (Brazil) (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Notícias",BandNews (720p)
-http://45.162.64.114/BAND_NEWS/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Notícias",Bandnews (720p) [Geo-blocked]
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",CNN Brasil (1080p)
@@ -335,8 +323,6 @@ https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8?checkedby:iptvcat.c
 http://186.219.52.187/jp_news/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Notícias",Record News
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/HZDRG0K.png",Record News (720p)
-http://45.162.64.114/RECORD_NEWS/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Notícias",Record News (720p)
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Notícias",Record News (720p)
